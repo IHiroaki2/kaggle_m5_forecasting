@@ -1,0 +1,19 @@
+{
+    "UNCERT_SUB_DIR": "uncertainty_submission/",
+    "DATAFRAME_DIR": "dataframe/",
+    "TRAIN_DATA_PATH": "m5-forecasting-accuracy/sales_train_evaluation.csv",
+    "SELL_PRICES_PATH": "m5-forecasting-accuracy/sell_prices.csv",
+    "CALENDAR_PATH": "m5-forecasting-accuracy/calendar.csv",
+    "UNCERT_SAMPLE_SUB_PATH": "m5-forecasting-uncertainty/sample_submission.csv",
+    "WEIGHTS_DIR": "weights/",
+    "PREDICTION_DIR": "prediction/",
+    "PREDICTION_FM_DIR": "prediction/format/",
+    "FEATURE_BASIC_DIR": "features/Basic/",
+    "FEATURE_TARGET_DIR": "features/Target/",
+    "FEATURE_ENCODING_DIR": "features/Encoding/",
+    "FEATURE_LAG_DIR": "features/Lag_Features/",
+    "ACC_FINAL_SUB_DIR": "Accuracy_private_submit_data/",
+    "ACC_PRED_SUMMARY_DIR": "accuracy_pred_shift_summary/",
+    "MODEL_DIR": "model/",
+    "ACC_SUB_DIR": "accuracy_submission/"
+}
