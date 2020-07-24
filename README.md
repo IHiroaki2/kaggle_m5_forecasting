@@ -6,9 +6,9 @@ If you run into any trouble with the setup/code or have any questions please con
 ## HARDWARE: 
 "The following specs were used to create the original solution"
 
-*SanDisk SecureAccessV3.01 2TB
+* SanDisk SecureAccessV3.01 2TB
 
-*MacBook Pro - 2.4 GHz 8coreIntel Core i9 - 64 GB 2667 MHz DDR4
+* MacBook Pro - 2.4 GHz 8coreIntel Core i9 - 64 GB 2667 MHz DDR4
 
 ## SOFTWARE :
 "python packages are detailed separately in `requirements.txt`"
