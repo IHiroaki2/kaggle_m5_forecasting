@@ -22,22 +22,14 @@ a) expect this to run about 8 ~ 9days
 
 b) trains all models from scratch
 
-### DATA SETUP 
+### FOLDER and DATA SETUP 
 
 "assumes the [Kaggle API](https://github.com/Kaggle/kaggle-api) is installed"
 
 below are the shell commands used in each step, as run from the top level directory
 
 ```zsh
-cd Accuracy_uncertainty_prediction/m5-forecasting-accuracy/
-kaggle competitions download -c m5-forecasting-accuracy -f sales_train_evaluation.csv
-kaggle competitions download -c m5-forecasting-accuracy -f sell_prices.csv
-kaggle competitions download -c m5-forecasting-accuracy -f calendar.csv
-kaggle competitions download -c m5-forecasting-accuracy -f sample_submission.csv
-cd ..
-cd m5-forecasting-uncertainty
-kaggle competitions download -c m5-forecasting-uncertainty -f sample_submission.csv
-cd ..
+prepare_folder_and_data.sh
 ```
 
 
