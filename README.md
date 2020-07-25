@@ -6,9 +6,9 @@ If you run into any trouble with the setup/code or have any questions please con
 ## HARDWARE: 
 "The following specs were used to create the original solution"
 
-* SanDisk SecureAccessV3.01 2TB
-
 * MacBook Pro - 2.4 GHz 8coreIntel Core i9 - 64 GB 2667 MHz DDR4
+
+* Storage 2TB
 
 ## SOFTWARE :
 "python packages are detailed separately in `requirements.txt`"
@@ -29,7 +29,7 @@ b) trains all models from scratch
 below are the shell commands used in each step, as run from the top level directory
 
 ```zsh
-prepare_folder_and_data.sh
+./prepare_folder_and_data.sh
 ```
 
 
