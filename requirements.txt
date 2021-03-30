@@ -202,7 +202,7 @@ pydicom==2.0.0
 pydocstyle==4.0.1
 pydot==1.4.1
 pyflakes==2.1.1
-Pygments==2.5.2
+Pygments==2.7.4
 pylint==2.4.4
 PyMeeus==0.3.7
 pyodbc===4.0.0-unsupported
